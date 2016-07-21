@@ -1,6 +1,18 @@
-# Codinfox-Lanyon
+# Intro
 
 This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+
+# Getting Started
+
+To power this up using gh-pages
+
+1. Fork this repo
+2. Create a `gh-pages` branch
+3. Checkout on `gh-pages`
+4. Edit `_config.yml`
+5. Use [prose.io](http://prose.io/ "prose.io") to create content. You can also use [snaggy](https://snag.gy/ "snaggy") to upload images directly from clipboard, and get the url, and later upload it in the blog using prose.io
+
+
 
 **If you like this project, PLEASE give it a star.**
 
