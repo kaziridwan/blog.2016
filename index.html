@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.blog.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
