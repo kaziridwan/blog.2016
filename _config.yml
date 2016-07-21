@@ -2,7 +2,7 @@
 title: Codinfox Lanyon
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
+baseurl: "/blog"
 url: http://codinfox.github.io
 logo: '/public/logo.png'
 
@@ -60,4 +60,3 @@ hero:
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
-
