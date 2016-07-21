@@ -3,8 +3,12 @@ layout: default
 title: Home
 published: true
 ---
+<div class="hero">
+	<img src="{{ site.baseurl }}{{ site.hero.image }}" />
+  	<p>{{ site.hero.caption }}</p>
+</div>
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
