@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+tags:
+  - deployment
+  - node
+  - flightplan
 ---
 ## Node Deployment : Right Way
 
