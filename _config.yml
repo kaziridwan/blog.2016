@@ -40,9 +40,9 @@ nav:
   Home:           
     - '/'
   Blog:           
-    - '/site/'
-    - { Categories: '/site/categories/' }
-    - { Tags: '/site/tags/' }
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
