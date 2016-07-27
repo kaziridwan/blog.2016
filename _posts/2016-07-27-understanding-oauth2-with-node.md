@@ -8,7 +8,7 @@ category:
 
 Many a times, we might need to allow external services / additional services to be built on top of our app, and for that, they might need to be authorized to use the user information. OAuth is mainly used in those cases as a protocol, to authorize external services to get our user data, and work on their behalf.
 
-An excerpt from [What the heck is OAuth](https://stormpath.com/blog/what-the-heck-is-oauth) :
+An excerpt from [What the heck is OAuth?](https://stormpath.com/blog/what-the-heck-is-oauth) :
 
 > What Does OAuth Do?
 >
@@ -24,4 +24,4 @@ Oauth 2.0 is an authentication framework, allowing an extensible set of authoriz
 
 ## References
 
-1. [What the heck is OAuth](https://stormpath.com/blog/what-the-heck-is-oauth)
+1. [What the heck is OAuth?](https://stormpath.com/blog/what-the-heck-is-oauth)
