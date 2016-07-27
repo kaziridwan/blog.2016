@@ -8,6 +8,8 @@ category:
 
 Many a times, we might need to allow external services / additional services to be built on top of our app, and for that, they might need to be authorized to use the user information. OAuth is mainly used in those cases as a protocol, to authorize external services to get our user data, and work on their behalf.
 
+An excerpt from [What the heck is OAuth](https://stormpath.com/blog/what-the-heck-is-oauth) :
+
 > What Does OAuth Do?
 > OAuth is basically a protocol that supports authorization workflows. What this means is that it gives you a way to ensure that a specific user has permissions to do something.
 > That’s it.
