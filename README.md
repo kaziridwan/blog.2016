@@ -11,6 +11,20 @@ To power this up using gh-pages
 3. Checkout on `gh-pages`
 4. Edit `_config.yml`
 5. Use [prose.io](http://prose.io/ "prose.io") to create content. You can also use [snaggy](https://snag.gy/ "snaggy") to upload images directly from clipboard, and get the url, and later upload it in the blog using prose.io
+6. Dont forget to add 
+
+```
+layout: post
+published: true
+categories:
+- some category
+	- subcategory
+tags:
+- sometag
+- othertag
+```
+
+on the metadata of the post, the layout is usually going to be 'post'
 
 
 
