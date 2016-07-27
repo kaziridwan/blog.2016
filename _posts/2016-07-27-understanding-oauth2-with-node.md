@@ -25,4 +25,5 @@ Oauth 2.0 is an authentication framework, allowing an extensible set of authoriz
 
 ## References
 
-1. [What the heck is OAuth?](https://stormpath.com/blog/what-the-heck-is-oauth)
+1. [What the heck is OAuth?](https://stormpath.com/blog/what-the-heck-is-oauth
+2. [oauth2orize](https://github.com/jaredhanson/oauth2orize)
