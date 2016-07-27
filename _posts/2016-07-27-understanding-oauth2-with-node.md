@@ -1,6 +1,8 @@
 ---
 published: false
 layout: post
+category:
+  - articles
 ---
 ## Oauth2
 
