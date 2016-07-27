@@ -1,5 +1,15 @@
 ---
 published: false
+layout: post
+tags:
+  - ci
+  - pipelines
+  - docker
+  - bitbucket
+  - continuous-delivery
+  - tooling
+categories:
+  - articles
 ---
 ## A New Post
 
