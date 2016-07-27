@@ -21,7 +21,7 @@ An excerpt from [What the heck is OAuth?](https://stormpath.com/blog/what-the-he
 
 Oauth 2.0 is an authentication framework, allowing an extensible set of authorization grants to be exchanged for access tokens. Implementations are free to choose what grant types to support, by using bundled middleware to support common types or plugins to support extension types.
 
-
+[To be continued]
 ## References
 
 1. [What the heck is OAuth?](https://stormpath.com/blog/what-the-heck-is-oauth)
