@@ -9,7 +9,7 @@ This post is inspired from [https://github.com/thoughtbot/til](thoughtbot/til)
 1. Some [react](https://facebook.github.io/react/) / [redux](http://redux.js.org/)
 2. [Passportjs](http://passportjs.org/docs/login)
 3. [Drywall](http://jedireza.github.io/drywall/)
-4. [Everyauth](https://github.com/bnoguchi/everyauth
+4. [Everyauth](https://github.com/bnoguchi/everyauth)
 5. [Node ability and permission management](https://gist.github.com/facultymatt/6370903)
 6. [https://github.com/OptimalBits/node_acl](node Acl)
 7. [Using the Node.js Bcrypt Module to Hash and Safely Store Passwords](http://codetheory.in/using-the-node-js-bcrypt-module-to-hash-and-safely-store-passwords/)
