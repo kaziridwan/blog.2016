@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+tags:
+  - tid
 ---
 ## A New Post
 
