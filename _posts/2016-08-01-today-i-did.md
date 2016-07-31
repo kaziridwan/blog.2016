@@ -4,6 +4,5 @@ layout: post
 tags:
   - tid
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+1. [Youtube video : Docker for beginners](https://www.youtube.com/watch?v=JBtWxj9l7zM)
+2. [Youtube video : How to build a Docker Container & Image](https://www.youtube.com/watch?v=K6WER0oI-qs) 
