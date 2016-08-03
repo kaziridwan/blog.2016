@@ -5,6 +5,7 @@ tags:
   - daily-update
 ---
 Today I Read
+
 1. [Painful journey of painless deployments : Airpair](https://www.airpair.com/docker/posts/the-painful-journey-of-painless-deployments)
 2. [Continuous delivery bitbucket pipelines](https://python-programming.courses/testing/continuous-delivery-tox-bitbucket-pipelines/) on git push
 3. [Configure deployment script on bitbucket pipelines](https://confluence.atlassian.com/bitbucket/configure-bitbucket-pipelines-yml-792298910.html)
